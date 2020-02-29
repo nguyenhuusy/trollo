@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trollo/static/css/main.3870ebbe.chunk.css",
+    "main.js": "/trollo/static/js/main.437e58ee.chunk.js",
+    "main.js.map": "/trollo/static/js/main.437e58ee.chunk.js.map",
+    "runtime-main.js": "/trollo/static/js/runtime-main.30b51bf7.js",
+    "runtime-main.js.map": "/trollo/static/js/runtime-main.30b51bf7.js.map",
+    "static/js/2.85fa66ac.chunk.js": "/trollo/static/js/2.85fa66ac.chunk.js",
+    "static/js/2.85fa66ac.chunk.js.map": "/trollo/static/js/2.85fa66ac.chunk.js.map",
+    "index.html": "/trollo/index.html",
+    "precache-manifest.28cba2548b8945baf0fc201892b408c3.js": "/trollo/precache-manifest.28cba2548b8945baf0fc201892b408c3.js",
+    "service-worker.js": "/trollo/service-worker.js",
+    "static/css/main.3870ebbe.chunk.css.map": "/trollo/static/css/main.3870ebbe.chunk.css.map",
+    "static/js/2.85fa66ac.chunk.js.LICENSE.txt": "/trollo/static/js/2.85fa66ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30b51bf7.js",
+    "static/js/2.85fa66ac.chunk.js",
+    "static/css/main.3870ebbe.chunk.css",
+    "static/js/main.437e58ee.chunk.js"
+  ]
+}
